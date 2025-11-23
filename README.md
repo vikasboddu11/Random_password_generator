@@ -12,7 +12,7 @@ It generates random password with multiple characters.
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Yvikasboddu11/age_calculator.git
+   git clone https://github.com/vikasboddu11/Random_password_generator.git
 
 ## Images
 images in this project are used for education purpose only
